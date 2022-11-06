@@ -7,7 +7,7 @@ const Footer = () => {
       <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
         © 2022{" "}
         <Link href="/" className="hover:underline">
-          MovieSearch
+          MovieSearch app
         </Link>
         . All Rights Reserved.
       </span>
